@@ -33,6 +33,12 @@ MANIFEST
 *.manifest
 *.spec
 
+# And some files
+Amazon_Reviews_ETL_starter_code.ipynb
+amazon_reviews_us_Grocery_v1_00.tsv
+amazon_reviews_us_Grocery_v1_00.tsv.gz
+challenge_schema.sql
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
